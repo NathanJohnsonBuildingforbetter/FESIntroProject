@@ -1,0 +1,5 @@
+{"timestamp":9994,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"persist-search-term-rollout-phase-1","branch":"control-rollout","experiment_type":"rollout","enrollment_id":"bca2cdf6-9863-42bc-ae9b-753bb733da37"}}
+{"timestamp":11381,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"upgrade-spotlight-rollout","enrollment_id":"a0a6c758-9c38-4c30-be5a-0e3936c3c358","branch":"treatment"}}
+{"timestamp":11391,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","experiment":"next-generation-accessibility-engine-powering-screen-readers","branch":"treatment-a","enrollment_id":"ac071b0f-728a-463e-8303-f78235167f68"}}
+{"timestamp":11392,"category":"nimbus_events","name":"unenrollment","extra":{"enrollment_id":"42523086-4121-4094-bf44-0004b2dab444","reason":"recipe-not-seen","branch":"control","experiment":"updated-import-infrequent-rollout-make-yourself-at-home-copy"}}
+{"timestamp":579822,"category":"nimbus_events","name":"exposure","extra":{"experiment":"persist-search-term-rollout-phase-1","branch":"control-rollout","feature_id":"urlbar"}}
